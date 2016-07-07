@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PShop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PShop_jar</output-path>
+    <root id="archive" name="PShop.jar">
+      <element id="module-output" name="PShop" />
+    </root>
+  </artifact>
+</component>
